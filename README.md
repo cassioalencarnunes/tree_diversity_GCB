@@ -1,10 +1,10 @@
 # **Multi-faceted assessment of Amazonian tree diversity reveals pervasive impacts of human modification**
 
-Erika Berenguer**\*** & Cássio Alencar Nunes**\***, Jesus Aguirre-Gutiérrez, Joice Ferreira, Yadvinder Malhi, Luiz E. O. C. Aragão, Adriane Esquivel-Muelbert, Axa E. S. Figueiredo, Joseph E. Hawes, Carlos A. Joly, Carlos A. Quesada, Marina M. M. de Seixas, Ima Vieira, Jos Barlow
+Erika Berenguer\* & Cássio Alencar Nunes\*, Jesus Aguirre-Gutiérrez, Joice Ferreira, Yadvinder Malhi, Luiz E. O. C. Aragão, Adriane Esquivel-Muelbert, Axa E. S. Figueiredo, Joseph E. Hawes, Carlos A. Joly, Carlos A. Quesada, Marina M. M. de Seixas, Ima Vieira, Jos Barlow
 
 October 2025
 
-**\*** Shared first authorship
+\* Shared first authorship
 
 **e-mail**: [cassioalencarnunes\@gmail.com](mailto:cassioalencarnunes@gmail.com) and [erikaberenguer\@gmail.com](mailto:erikaberenguer@gmail.com)
 
