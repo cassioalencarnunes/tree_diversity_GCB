@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1080410947.svg)](https://doi.org/10.5281/zenodo.17407988)
 # **Multi-faceted assessment of Amazonian tree diversity reveals pervasive impacts of human modification**
 
 Erika Berenguer\* & Cássio Alencar Nunes\*, Jesus Aguirre-Gutiérrez, Joice Ferreira, Yadvinder Malhi, Luiz E. O. C. Aragão, Adriane Esquivel-Muelbert, Axa E. S. Figueiredo, Joseph E. Hawes, Carlos A. Joly, Carlos A. Quesada, Marina M. M. de Seixas, Ima Vieira, Jos Barlow
