@@ -1,0 +1,5 @@
+"","term","estimate","R2"
+"1","pairs",0.420030593580479,"R2"
+"2","q_value",0.036375803467082,"R2"
+"3","R2 marginal",0.4564,"R2 total"
+"4","R2 conditional",0.2634,"R2 total"
